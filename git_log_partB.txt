@@ -1,0 +1,107 @@
+commit f9dda361dccf1d7ba01a0d12e9bdc78c22bb03f5
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 20:07:15 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..037cca0
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Google
+\ No newline at end of file
+
+commit 649796cfbdea3b760315f71b3b539f7e28eacb01
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 20:02:29 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 8b62e38..e7fd30b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+ Rishabh CSE SpiceGarden 83
++Orange
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 037cca0..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 Google
+\ No newline at end of file
+
+commit 381cbd0da22196012fecc5bf68e5bdb60562e2f6
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 19:59:30 2024 +0530
+
+    Addded graduation year and target company
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..037cca0
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Google
+\ No newline at end of file
+
+commit c50c2df54b8336db36e8703d4014eded707b2554
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 19:48:59 2024 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 48173af..8b62e38 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Rishabh CSE Cricket
++Rishabh CSE SpiceGarden 83
+
+commit ee11c5ea258c8e30d9d18a3babacbb3bed174dc6
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 19:46:19 2024 +0530
+
+    Added a sport
+
+diff --git a/file1.txt b/file1.txt
+index ef3c675..48173af 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Rishabh CSE
++Rishabh CSE Cricket
+
+commit 85b7d7e6560040a83c19043ebe66d7376c846ebf
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 19:41:51 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 346c241..ef3c675 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Rishabh 29294
++Rishabh CSE
+
+commit 0ce86ecc0505a6fd4763d0e096906b6eec65b696
+Author: rishabh <rishabh@gmail.com>
+Date:   Sun Mar 10 19:18:04 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..346c241
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Rishabh 29294
